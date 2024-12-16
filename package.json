@@ -21,7 +21,7 @@
     "taskbook:coverage": "cross-env TASKBOOK_DEV=1 npm run coverage"
   },
   "dependencies": {
-    "@shgk/vue-course-ui": "^6.0.0-rc.8",
+    "@shgk/vue-course-ui": "^6.0.0",
     "@vueuse/core": "^10.11.0",
     "klona": "^2.0.6",
     "nanoid": "^5.0.7",
